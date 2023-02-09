@@ -1,0 +1,24 @@
+p {
+    font-size: 30px;
+    color: blue;
+ }
+ 
+ .foo {
+     color: red;
+     font-weight: 900;
+ }
+
+#bar:focus {
+    font-size: 40px;
+    background-color: green;
+}
+
+#bar:hover {
+    font-size: 20px;
+    background-color: red;
+}
+
+#bar:visited {
+    font-size: 20px;
+    background-color: green;
+}
